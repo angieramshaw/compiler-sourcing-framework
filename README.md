@@ -1,6 +1,4 @@
 # compiler-sourcing-framework
-A structured, repeatable system for identifying high-signal compiler engineers across MLIR, LLVM, TVM, Triton, and XLA.
-# Compiler Sourcing Framework
 
 A structured, repeatable system for identifying high‑signal compiler engineers across MLIR, LLVM, TVM, Triton, and XLA.  
 Designed to support deep‑tech hiring at Fractile AI.
